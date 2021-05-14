@@ -6,4 +6,5 @@ This is a set of data regarding to a supermarket which has three branch stores, 
 <br />
 Presentation in Tableau can be found [here](https://public.tableau.com/profile/grace8726#!/vizhome/Grace-SupermarketDataStory/Story1?publish=yes).<br />
 <br />
+<br />
 Data from Kaggle from here: https://www.kaggle.com/aungpyaeap/supermarket-sales<br />
